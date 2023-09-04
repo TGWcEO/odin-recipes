@@ -1,0 +1,49 @@
+head,body{
+    padding: 10px;
+}
+div{
+    margin: 1px auto 5px 1px;
+    padding: 4px;
+}
+.underline{
+    width: 520px;
+    border-bottom: blue solid 2px;
+    border-right: blue solid 2px;
+}
+h1{
+    font-size: 36px;
+    color: white;
+    background-color: purple;
+    border: solid blue 7px;
+    text-align: center;
+    height: atuo;
+    width: 450px;
+    margin: 1px 0px 11px 20px;
+}
+h3{
+    color: white;
+    background-color: blue;
+    border-radius: 25px;
+    padding: 2px 2px 2px 12px;
+    width: 175px;
+    border-top: solid blue 1px;
+    border-left: solid white 1px;
+    border-right: solid white 1px;
+    margin-bottom: 5px; 
+}
+ul,ol{
+    margin-top: 0px;
+    border-left: solid blue 7px;
+    border-top: solid white 4px;
+    border-bottom: solid white 4px;
+}
+.child{
+    border: white solid 0px;
+    padding-left: 10px;
+}
+img{
+    height: auto;
+    width: 230px;
+    padding: 2px;
+    margin: 2px auto 5px 2px;
+}
